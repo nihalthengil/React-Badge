@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Nihal",
+      "email": "nihal@gmail.com",
+      "password": "nihal123",
+      "cart": []
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Product 1",
+      "price": 100,
+      "description": "Description for Product 1"
+    },
+    {
+      "id": "2",
+      "name": "Product 2",
+      "price": 200,
+      "description": "Description for Product 2"
+    },
+    {
+      "id": "3",
+      "name": "Product 3",
+      "price": 300,
+      "description": "Description for Product 3"
+    },
+    {
+      "id": "627b",
+      "name": "product 4",
+      "price": "400",
+      "description": "product 4 is this"
+    }
+  ]
+}
