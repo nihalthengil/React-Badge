@@ -32,6 +32,18 @@
       "name": "product 4",
       "price": "400",
       "description": "product 4 is this"
+    },
+    {
+      "id": "4fba",
+      "name": "thengil",
+      "price": "155",
+      "description": "aaa"
+    },
+    {
+      "id": "6071",
+      "name": "product 5",
+      "price": "500",
+      "description": "product 5"
     }
   ]
 }
